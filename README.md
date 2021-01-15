@@ -3,6 +3,7 @@ Une curration des blogs de la communauté Lambda Lille
 
 | Nom | Twitter | Git* | Blog |
 |-----|---------|------|------|
+| Clément Delafargue | [@clementd](https://twitter.com/clementd) | [github.com/divarvel](https://github.com/divarvel) | [blog.clement.delafargue.name](https://blog.clement.delafargue.name) |
 | Didier Plaindoux | [@dplaindoux](https://twitter.com/dplaindoux) | [github.com/d-plaindoux](https://github.com/d-plaindoux) | [d.plaindoux.free.fr/](http://d.plaindoux.free.fr/) |
 | Guillaume Bogard | [@bogardguillaume](https://twitter.com/bogardguillaume) | - | [guillaumebogard.dev/](https://guillaumebogard.dev/) |
 | Julien Debon  | [@Sir4ur0n](https://twitter.com/Sir4ur0n) | [github.com/Sir4ur0n](https://github.com/Sir4ur0n) | [sir4ur0n.github.io/](https://sir4ur0n.github.io/) |
