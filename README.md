@@ -10,5 +10,5 @@ Une curration des blogs de la communauté Lambda Lille
 | Julien Dehos  | - | [gitlab.com/juliendehos](https://gitlab.com/juliendehos) | [juliendehos.gitlab.io/](https://juliendehos.gitlab.io/) | |
 | Julien Truffaut  | [@JulienTruffaut](https://twitter.com/JulienTruffaut) | [github.com/julien-truffaut](https://github.com/julien-truffaut) | [blog.fp-tower.com/](https://blog.fp-tower.com/) | |
 | Nicolas Rinaudo | [@nicolasrinaudo](https://twitter.com/nicolasrinaudo) | [github.com/nrinaudo](https://github.com/nrinaudo) | [nrinaudo.github.io](https://nrinaudo.github.io/) | |
-| Thomas Haesslé  | [@oteku](https://twitter.com/oteku) | [github.com/oteku](https://github.com/oteku) | [oteku.github.io/](https://oteku.github.io/) | |
+| Thomas Haesslé  | [@oteku](https://twitter.com/oteku) | [github.com/oteku](https://github.com/oteku) | [oteku.github.io/](https://oteku.github.io/) | [@oteku@mastodon.social](@oteku@mastodon.social) |
 | Xavier Van de Woestyne  | - | [github.com/xvw](https://github.com/xvw) | [xvw.github.io/](https://xvw.github.io/) | [xvw@merveilles.town](https://merveilles.town/@xvw) |
